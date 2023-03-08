@@ -1,6 +1,8 @@
 import { useState, useEffect, Fragment } from 'react'
 import './App.css'
 
+//react components and stying using tailwind CSS
+
 function App() {
   return (
     <Fragment>
@@ -40,7 +42,7 @@ const Sam2 = (props) => {
       <div className=" flex h-full w-full  ">
         <div className="p-4">
           <p className="font-bold text-lg text-blue-900 mb-2">
-            Grilled Veggies, 80 calories
+            Grilled Veggies, 90 calories
           </p>
           <button className="  hover:bg-blue-700 font-medium uppercase bg-blue-900 text-white px-5 py-2 rounded-xl">
             eat it
