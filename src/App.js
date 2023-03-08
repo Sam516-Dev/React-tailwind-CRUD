@@ -1,7 +1,6 @@
 import { useState, useEffect, Fragment } from 'react'
 import './App.css'
 
-//react components and stying using tailwind CSS
 
 function App() {
   return (
@@ -62,7 +61,7 @@ const Sam2 = (props) => {
     </div>
   )
 }
-
+//tailwind css
 const Sam3 = (props) => {
   return (
     <div className="  text-blue-900 text-center m-auto mt-8 bg-blue-100 rounded-md font-medium h-28 w-1/2">
