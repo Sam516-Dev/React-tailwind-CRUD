@@ -71,7 +71,7 @@ const Sam3 = (props) => {
           <p>Meals</p>
           <p>Remaining</p>
         </div>
-        <button className=" hover:bg-blue-700 font-medium uppercase bg-blue-900 text-white px-5 py-2 mr-8 rounded-xl">
+        <button className=" text-xl hover:bg-blue-700 font-extrabold uppercase bg-blue-900 text-white px-5 py-2 mr-8 rounded-xl">
           05
         </button>
       </div>
